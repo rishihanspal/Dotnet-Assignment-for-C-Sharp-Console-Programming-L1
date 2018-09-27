@@ -1,1 +1,0 @@
-# Dotnet-Assignment-for-C-Sharp-Console-Programming-L1
